@@ -1,0 +1,6 @@
+C:\Users\usr\source\repos\ValidParantheis\ValidParantheis\bin\Debug\ValidParantheis.exe.config
+C:\Users\usr\source\repos\ValidParantheis\ValidParantheis\bin\Debug\ValidParantheis.exe
+C:\Users\usr\source\repos\ValidParantheis\ValidParantheis\bin\Debug\ValidParantheis.pdb
+C:\Users\usr\source\repos\ValidParantheis\ValidParantheis\obj\Debug\ValidParantheis.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\ValidParantheis\ValidParantheis\obj\Debug\ValidParantheis.exe
+C:\Users\usr\source\repos\ValidParantheis\ValidParantheis\obj\Debug\ValidParantheis.pdb
